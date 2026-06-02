@@ -14,11 +14,11 @@ jobs:
           filename: languages.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           base: "" 
-          plugin_languages: yes
-          plugin_languages_limit: 8
-          plugin_languages_details: percentage
           
-          # Baris baru: Mengabaikan HTML & CSS agar Dart/PHP naik
-          plugin_languages_ignored: html, css
+          # Pengaturan Bahasa
+          plugin_languages: yes
+          plugin_languages_limit: 0 # Angka 0 akan memaksa sistem menampilkan SEMUA bahasa
+          plugin_languages_details: percentage # Hanya persentase agar rapi
+          plugin_languages_indepth: no # Dimatikan agar membaca seluruh repo, bukan hanya commit terakhir
           
           config_transparent: yes
