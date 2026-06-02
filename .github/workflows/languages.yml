@@ -15,6 +15,10 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           base: "" 
           plugin_languages: yes
-          plugin_languages_limit: 8 # Menampilkan hingga 8 bahasa agar detail
-          plugin_languages_details: percentage # Dibuat lebih ringkas tanpa byte size
+          plugin_languages_limit: 8
+          plugin_languages_details: percentage
+          
+          # Baris baru: Mengabaikan HTML & CSS agar Dart/PHP naik
+          plugin_languages_ignored: html, css
+          
           config_transparent: yes
