@@ -23,10 +23,10 @@
       <h3><code>&gt; // IDENTITY_STATION_</code></h3>
       <pre lang="text">
 {
-  "name": "Fathii3",
+  "name": "Fathi Fadhil",
   "degree": "Informatics Engineering",
   "focus": [
-    "Full-Stack Development",
+    "Full-Stack Development Web & Mobile (Flutter)",
     "UI/UX Design",
     "Artificial Intelligence"
   ],
@@ -36,10 +36,10 @@
 }
       </pre>
       <div align="left">
-        <a href="https://instagram.com/fathii3">
+        <a href="https://instagram.com/fathii._3">
           <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=00FFFF" alt="Instagram"/>
         </a>
-        <a href="mailto:fathifadhil@email.com">
+        <a href="mailto:fathifadhil10@email.com">
           <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FFFF" alt="Gmail"/>
         </a>
       </div>
