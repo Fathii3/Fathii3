@@ -4,10 +4,6 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Fathii3&label=SYSTEM_VISITS&color=00FFFF&style=for-the-badge" alt="Profile Views" />
-</div>
-
 <br>
 <div align="center">
   <a href="https://instagram.com/fathii._3" target="_blank">
@@ -32,23 +28,15 @@
 <h3 align="center" style="color: #00FFFF; font-family: monospace;"><code>[ SYSTEM_METRICS ]</code></h3>
 
 <div align="center">
-  <!-- MENGGUNAKAN ALTERNATIF SERVER: GitHub Profile Summary Cards -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fathii3&theme=dracula" alt="Stats" height="190px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Fathii3&show_icons=true&bg_color=00000000&hide_border=true&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF" alt="Stats" height="190px"/>
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fathii3&theme=dracula" alt="Languages" height="190px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fathii3&layout=compact&bg_color=00000000&hide_border=true&title_color=00FFFF&text_color=FFFFFF" alt="Languages" height="190px"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fathii3&background=050505&ring=00FFFF&fire=00FFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=FFFFFF&hide_border=false&border=00FFFF&borderRadius=4" alt="Streak" height="180px"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&height=40&lines=Connection_Terminated.;Stay_Curious." alt="Footer" />
-</div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fathii3&background=00000000&hide_border=true&ring=00FFFF&fire=00FFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=FFFFFF" alt
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Fathii3&label=SYSTEM_VISITS&color=00FFFF&style=for-the-badge" alt="Profile Views" />
