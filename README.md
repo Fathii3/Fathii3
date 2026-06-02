@@ -32,14 +32,13 @@
 <h3 align="center" style="color: #00FFFF; font-family: monospace;"><code>[ SYSTEM_METRICS ]</code></h3>
 
 <!-- KEDUA KARTU DI BAWAH INI DISEMBUNYIKAN SEMENTARA KARENA SERVER SEDANG DOWN -->
-<!-- Hapus tanda panah hijau ini jika server sudah normal kembali
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Fathii3&show_icons=true&bg_color=050505&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF&border_color=00FFFF&border_radius=4" alt="Stats" height="190px"/>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fathii3&layout=compact&bg_color=050505&title_color=00FFFF&text_color=FFFFFF&border_color=00FFFF&border_radius=4" alt="Languages" height="190px"/>
 </div>
 <br>
--->
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fathii3&background=050505&ring=00FFFF&fire=00FFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=FFFFFF&hide_border=false&border=00FFFF&borderRadius=4" alt="Streak" height="180px"/>
