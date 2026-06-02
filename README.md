@@ -1,11 +1,11 @@
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=Fathii3&label=SYSTEM_VISITS&color=00FFFF&style=flat-square" alt="Profile Views" />
+</div>
+
 <div align="center">
   <a href="https://github.com/Fathii3">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&height=80&lines=Initializing_System...;Welcome_to_Fathii3_Terminal;Informatics_Engineering;Full-Stack_Dev_+_AI_Enthusiast" alt="Typing SVG" />
   </a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Fathii3&label=SYSTEM_VISITS&color=00FFFF&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <br>
