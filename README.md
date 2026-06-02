@@ -49,3 +49,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&height=40&lines=Connection_Terminated.;Stay_Curious." alt="Footer" />
 </div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Fathii3&label=SYSTEM_VISITS&color=00FFFF&style=for-the-badge" alt="Profile Views" />
+</div>
