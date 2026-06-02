@@ -9,7 +9,6 @@
 </div>
 
 <br>
-
 <div align="center">
   <a href="https://instagram.com/fathii._3" target="_blank">
     <img src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="Instagram" width="40" height="40" />
@@ -33,9 +32,9 @@
 <h3 align="center" style="color: #00FFFF; font-family: monospace;"><code>[ SYSTEM_METRICS ]</code></h3>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fathii3&theme=dracula" alt="Stats" height="190px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Fathii3&show_icons=true&bg_color=00000000&hide_border=true&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF&cache_seconds=86400" alt="Stats" height="190px"/>
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fathii3&theme=dracula" alt="Languages" height="190px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fathii3&layout=compact&bg_color=00000000&hide_border=true&title_color=00FFFF&text_color=FFFFFF&cache_seconds=86400" alt="Languages" height="190px"/>
 </div>
 
 <br>
