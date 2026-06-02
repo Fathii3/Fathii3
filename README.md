@@ -29,10 +29,17 @@
 
 <br>
 
-<h3 align="center" style="color: #00FFFF; font-family: monospace;"><code>[ REPOSITORY_LANGUAGES ]</code></h3>
+<h3 align="center" style="color: #00FFFF; font-family: monospace;"><code>[ ACTIVITY_RADAR ]</code></h3>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fathii3&bg_color=050505&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=false&border_color=00FFFF&radius=4" width="100%" alt="Activity Graph"/>
+</div>
+
+<br>
+
+<h3 align="center" style="color: #00FFFF; font-family: monospace;"><code>[ SYSTEM_METRICS ]</code></h3>
 
 <div align="center">
-  <img src="./languages.svg" alt="Top Languages Graph" width="600px" />
+  <img src="./languages.svg" alt="Top Languages Graph" width="650px" />
 </div>
 
 <br>
