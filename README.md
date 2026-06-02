@@ -27,11 +27,6 @@
   </a>
 </div>
 
-<br>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="animated line" />
-</div>
-<br>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Fathii3&theme=dracula&no-frame=true&no-bg=true&margin-w=15&column=7" alt="Trophies" />
@@ -43,40 +38,6 @@
 </div>
 <br>
 
-<table align="center" width="100%" style="border-collapse: collapse; border: 1px solid #00FFFF;">
-  <tr style="background-color: #00FFFF; color: #000000;">
-    <td colspan="2" style="padding: 6px; font-family: monospace; font-weight: bold;">
-      &nbsp;> root@fathii3:~# ./display_info.sh
-    </td>
-  </tr>
-  <tr style="background-color: #050505;">
-    <td width="65%" valign="top" style="padding: 20px; font-family: monospace; font-size: 14px; color: #00FFFF;">
-      <span style="color: #FFFFFF;">$ whoami</span><br>
-      > Fathii3<br>
-      > Informatics Engineering Student<br><br>
-      
-      <span style="color: #FFFFFF;">$ cat specializations.txt</span><br>
-      > Full-Stack Web & Mobile (Flutter, Dart, PHP)<br>
-      > Retro UI / UX Design / System Architecture<br>
-      > AI Integration (Computer Vision, DeepFace)<br><br>
-      
-      <span style="color: #FFFFFF;">$ cat current_mission.md</span><br>
-      > Building seamless digital experiences & exploring machine learning algorithms.<br><br>
-      
-      <span style="color: #FFFFFF;">$ ./check_status.exe</span><br>
-      > [ SYSTEM_ONLINE_AND_READY_FOR_COLLABORATION ]
-    </td>
-    <td width="35%" align="center" valign="center" style="padding: 15px; border-left: 1px dashed #00FFFF;">
-      <img src="https://i.pinimg.com/originals/0a/76/01/0a7601fbf9ce17e562145e12eafec306.gif" width="220" alt="Cyan Tech GIF" style="border: 1px solid #00FFFF; border-radius: 4px;" />
-    </td>
-  </tr>
-</table>
-
-<br>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="animated line" />
-</div>
-<br>
 
 <h3 align="center" style="color: #00FFFF; font-family: monospace;"><code>[ SYSTEM_METRICS ]</code></h3>
 <div align="center">
@@ -91,11 +52,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fathii3&background=050505&ring=00FFFF&fire=00FFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=FFFFFF&hide_border=false&border=00FFFF&borderRadius=4" alt="Streak" height="180px"/>
 </div>
 
-<br>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="animated line" />
-</div>
-<br>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&height=40&lines=Connection_Terminated.;Stay_Curious." alt="Footer" />
