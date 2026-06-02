@@ -12,14 +12,24 @@
   </a>
 </div>
 
-<br><br>
+<br>
+<!-- ANIMASI GARIS PEMISAH -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="animated line" />
+</div>
+<br>
 
 <!-- BAGIAN TROFI (CYAN THEME AESTHETIC) -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Fathii3&theme=dracula&no-frame=true&no-bg=true&margin-w=15&column=7" alt="Trophies" />
 </div>
 
-<br><br>
+<br>
+<!-- ANIMASI GARIS PEMISAH -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="animated line" />
+</div>
+<br>
 
 <!-- FOLDER BIODATA: TERMINAL COMMAND STYLE -->
 <table align="center" width="100%" style="border-collapse: collapse; border: 1px solid #00FFFF;">
@@ -46,15 +56,20 @@
       > [ SYSTEM_ONLINE_AND_READY_FOR_COLLABORATION ]
     </td>
     <td width="35%" align="center" valign="center" style="padding: 15px; border-left: 1px dashed #00FFFF;">
-      <!-- GIF Dekoratif Cyan -->
+      <!-- GIF ANIMASI DEKORATIF -->
       <img src="https://i.pinimg.com/originals/0a/76/01/0a7601fbf9ce17e562145e12eafec306.gif" width="220" alt="Cyan Tech GIF" style="border: 1px solid #00FFFF; border-radius: 4px;" />
     </td>
   </tr>
 </table>
 
-<br><br>
+<br>
+<!-- ANIMASI GARIS PEMISAH -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="animated line" />
+</div>
+<br>
 
-<!-- BAGIAN TECH STACK (DIPERLUAS) -->
+<!-- BAGIAN TECH STACK -->
 <h3 align="center" style="color: #00FFFF; font-family: monospace;"><code>[ SYSTEM_ARSENAL ]</code></h3>
 <div align="center">
   <p>
@@ -64,9 +79,14 @@
   </p>
 </div>
 
-<br><br>
+<br>
+<!-- ANIMASI GARIS PEMISAH -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="animated line" />
+</div>
+<br>
 
-<!-- GRAFIK AKTIVITAS GITHUB (ELEMEN BARU AGAR LEBIH PENUH) -->
+<!-- GRAFIK AKTIVITAS GITHUB -->
 <h3 align="center" style="color: #00FFFF; font-family: monospace;"><code>[ ACTIVITY_RADAR ]</code></h3>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fathii3&bg_color=050505&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=false&border_color=00FFFF&radius=4" width="100%" alt="Activity Graph"/>
@@ -91,8 +111,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fathii3&background=050505&ring=00FFFF&fire=00FFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=FFFFFF&hide_border=false&border=00FFFF&borderRadius=4" alt="Streak" height="180px"/>
 </div>
 
-<br><br>
+<br>
+<!-- ANIMASI GARIS PEMISAH -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="animated line" />
+</div>
+<br>
 
+<!-- FOOTER ANIMASI KETIK -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&height=40&lines=Connection_Terminated.;Stay_Curious." alt="Footer" />
 </div>
