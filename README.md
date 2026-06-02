@@ -39,7 +39,7 @@
 <h3 align="center" style="color: #00FFFF; font-family: monospace;"><code>[ SYSTEM_METRICS ]</code></h3>
 
 <div align="center">
-  <img src="./languages.svg" alt="Top Languages Graph" width="450px" />
+  <img src="./languages.svg?v=1" alt="Top Languages Graph" width="450px" />
 </div>
 
 <br>
