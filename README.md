@@ -28,16 +28,6 @@
 </div>
 
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Fathii3&theme=dracula&no-frame=true&no-bg=true&margin-w=15&column=7" alt="Trophies" />
-</div>
-
-<br>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="animated line" />
-</div>
-<br>
-
 
 <h3 align="center" style="color: #00FFFF; font-family: monospace;"><code>[ SYSTEM_METRICS ]</code></h3>
 <div align="center">
