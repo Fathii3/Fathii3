@@ -86,8 +86,13 @@
 </div>
 <br>
 
-<!-- GRAFIK AKTIVITAS GITHUB -->
+<!-- BAGIAN GRAFIK AKTIVITAS GITHUB DENGAN ANIMASI SCANLINE BARU -->
 <h3 align="center" style="color: #00FFFF; font-family: monospace;"><code>[ ACTIVITY_RADAR ]</code></h3>
+<!-- ANIMASI DEKORATIF BARU: SCANLINE TERMINAL CYAN -->
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTh1MDRuOGpkaGd3dW1zNWY5bTFoaHRhNzhzMG4yNWw5dzRtdXdxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKMfNf76pZ3w548/giphy.gif" width="100%" alt="terminal scanline animation"/>
+</div>
+<!-- GAMBAR REFERENSI: image_6.png menunjukkan visualisasi data statis saat ini -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fathii3&bg_color=050505&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=false&border_color=00FFFF&radius=4" width="100%" alt="Activity Graph"/>
 </div>
