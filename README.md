@@ -32,7 +32,7 @@
 <h3 align="center" style="color: #00FFFF; font-family: monospace;"><code>[ REPOSITORY_LANGUAGES ]</code></h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fathii3&layout=donut&bg_color=00000000&hide_border=true&title_color=00FFFF&text_color=FFFFFF&cache_seconds=86400" alt="Top Languages" />
+  <img src="./languages.svg" alt="Top Languages Graph" width="600px" />
 </div>
 
 <br>
