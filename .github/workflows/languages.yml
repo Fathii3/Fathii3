@@ -15,5 +15,6 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           base: "" 
           plugin_languages: yes
-          plugin_languages_details: percentage, bytes-size
-          plugin_languages_indepth: yes
+          plugin_languages_limit: 8 # Menampilkan hingga 8 bahasa agar detail
+          plugin_languages_details: percentage # Dibuat lebih ringkas tanpa byte size
+          config_transparent: yes
