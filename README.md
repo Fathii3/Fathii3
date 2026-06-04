@@ -1,14 +1,11 @@
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=Fathii3&style=flat-square&color=00D9FF&label=yang+mampir" />
 </div>
-
 <br/>
-
 <!-- ══ HEADER ══ -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=62&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=90&lines=hi%2C+i'm+fathi.+%F0%9F%91%8B;suka+bikin+hal+seru.;fullstack+%2B+ai+nerd.;welcome+to+my+corner+%E2%9C%A8" alt="header" />
 </div>
-
 <div align="center">
   <img src="https://img.shields.io/badge/%F0%9F%93%8D_indonesia-%20-00D9FF?style=flat-square&labelColor=0a0f14" />
   &nbsp;
@@ -18,14 +15,11 @@
   &nbsp;
   <img src="https://img.shields.io/badge/%F0%9F%8E%B5_vibes-musik-santai-00D9FF?style=flat-square&labelColor=0a0f14" />
 </div>
-
 <br/>
 <br/>
-
 mahasiswa **informatika** yang hobinya main Game (Roblox), ngoding tunggu ga pening lebih fokus ngerjainya.
 suka di dunia **fullstack web** & **mobile (Flutter)** seneng kalau lihat sesuatu yang ku bikin bisa dipake beneran sama orang. sekarang lagi asik-asiknya ngulik **AI** buat dimasukin ke project. hasilnya belum tentu bagus, tapi prosesnya seru.
 di luar itu? dengerin musik, rebahan, sama overthinking soal hal teknis yang ga penting-penting amat 🫠
-
 <br/>
 
 ---
@@ -33,20 +27,20 @@ di luar itu? dengerin musik, rebahan, sama overthinking soal hal teknis yang ga 
 <!-- ══ RIGHT NOW + STATS SIDE BY SIDE ══ -->
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### &nbsp; Right now
 
-&nbsp; 🔨 &nbsp; **working on** &nbsp;·&nbsp; fullstack web app + REST API <br/>
-&nbsp; 📱 &nbsp; **tinkering** &nbsp;·&nbsp; mobile app pake Flutter <br/>
-&nbsp; 🤖 &nbsp; **exploring** &nbsp;·&nbsp; gimana AI masuk ke dalam app secara natural <br/>
-&nbsp; 🎯 &nbsp; **goals** &nbsp;·&nbsp; ship 3 real projects tahun ini, bukan cuma side project abadi <br/>
-&nbsp; 🎵 &nbsp; **listening** &nbsp;·&nbsp; musik santai <br>
+🔨 &nbsp; **working on** &nbsp;·&nbsp; fullstack web app + REST API <br/>
+📱 &nbsp; **tinkering** &nbsp;·&nbsp; mobile app pake Flutter <br/>
+🤖 &nbsp; **exploring** &nbsp;·&nbsp; gimana AI masuk ke dalam app secara natural <br/>
+🎯 &nbsp; **goals** &nbsp;·&nbsp; ship 3 real projects tahun ini, bukan cuma side project abadi <br/>
+🎵 &nbsp; **listening** &nbsp;·&nbsp; musik santai
 
 </td>
 <td width="50%" valign="top" align="center">
 
-###  &nbsp; Github stats
+### &nbsp; Github stats
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fathii3&theme=dark&hide_border=true&background=0a0f14&ring=00D9FF&fire=00D9FF&currStreakNum=00D9FF&sideNums=ffffff&currStreakLabel=00D9FF&sideLabels=888888&dates=555555" width="100%"/>
 
@@ -56,7 +50,7 @@ di luar itu? dengerin musik, rebahan, sama overthinking soal hal teknis yang ga 
 
 ---
 
-###  &nbsp; Find me
+### &nbsp; Find me
 
 <div align="center">
   <a href="https://instagram.com/fathii._3">
@@ -75,10 +69,8 @@ di luar itu? dengerin musik, rebahan, sama overthinking soal hal teknis yang ga 
     <img src="https://img.shields.io/badge/portfolio-fathifadhil3.me-00D9FF?style=flat-square&logo=safari&logoColor=00D9FF&labelColor=0a0f14" />
   </a>
 </div>
-
 <br/>
 <br/>
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=24&pause=1200&color=00D9FF&center=true&vCenter=true&width=500&height=45&lines=thanks+udah+mampir+%F0%9F%91%8B;reach+out+kalau+mau+collab!;stay+curious%2C+keep+building+%E2%9C%A8" />
 </div>
