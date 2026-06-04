@@ -14,15 +14,15 @@
     <img src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="Instagram" width="40" height="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="[https://tiktok.com/@fathii._3](https://www.tiktok.com/@fathii.03?is_from_webapp=1&sender_device=pc)" target="_blank">
+  <a href="https://www.tiktok.com/@fathii.03" target="_blank">
     <img src="https://img.icons8.com/color/48/tiktok--v1.png" alt="TikTok" width="40" height="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/fathii3" target="_blank">
+  <a href="https://linkedin.com/in/fathi-fadhil" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40" height="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://fathii3.github.io" target="_blank">
+  <a href="https://fathifadhil3.infinityfree.me/" target="_blank">
     <img src="https://img.icons8.com/color/48/domain--v1.png" alt="Website" width="40" height="40" />
   </a>
 </div>
