@@ -35,7 +35,7 @@ di luar itu? dengerin musik, rebahan, sama overthinking soal hal teknis yang ga 
 <tr>
 <td width="50%" valign="top">
 
-### 📌 &nbsp; right now
+### &nbsp; Right now
 
 &nbsp; 🔨 &nbsp; **working on** &nbsp;·&nbsp; fullstack web app + REST API <br/>
 &nbsp; 📱 &nbsp; **tinkering** &nbsp;·&nbsp; mobile app pake Flutter <br/>
@@ -46,7 +46,7 @@ di luar itu? dengerin musik, rebahan, sama overthinking soal hal teknis yang ga 
 </td>
 <td width="50%" valign="top" align="center">
 
-### 📈 &nbsp; github stats
+###  &nbsp; Github stats
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fathii3&theme=dark&hide_border=true&background=0a0f14&ring=00D9FF&fire=00D9FF&currStreakNum=00D9FF&sideNums=ffffff&currStreakLabel=00D9FF&sideLabels=888888&dates=555555" width="100%"/>
 
@@ -56,7 +56,7 @@ di luar itu? dengerin musik, rebahan, sama overthinking soal hal teknis yang ga 
 
 ---
 
-### 🌐 &nbsp; find me
+###  &nbsp; Find me
 
 <div align="center">
   <a href="https://instagram.com/fathii._3">
