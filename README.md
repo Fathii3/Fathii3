@@ -14,7 +14,7 @@
     <img src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="Instagram" width="40" height="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://tiktok.com/@fathii._3" target="_blank">
+  <a href="[https://tiktok.com/@fathii._3](https://www.tiktok.com/@fathii.03?is_from_webapp=1&sender_device=pc)" target="_blank">
     <img src="https://img.icons8.com/color/48/tiktok--v1.png" alt="TikTok" width="40" height="40" />
   </a>
   &nbsp;&nbsp;
