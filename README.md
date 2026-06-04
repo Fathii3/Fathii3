@@ -18,7 +18,7 @@
     <img src="https://img.icons8.com/color/48/tiktok--v1.png" alt="TikTok" width="40" height="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/fathi-fadhil" target="_blank">
+  <a href="https://www.linkedin.com/in/fathi-fadhil-45063320a?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40" height="40" />
   </a>
   &nbsp;&nbsp;
