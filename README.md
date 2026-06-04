@@ -28,7 +28,6 @@ di luar itu? dengerin musik, rebahan, sama overthinking soal hal teknis yang ga 
 <table>
 <tr>
 <td width="50%" valign="top">
-
 <div align="center">
 
 ### &nbsp; Right now
@@ -40,14 +39,12 @@ di luar itu? dengerin musik, rebahan, sama overthinking soal hal teknis yang ga 
 🤖 &nbsp; **exploring** &nbsp;·&nbsp; gimana AI masuk ke dalam app secara natural <br/>
 🎯 &nbsp; **goals** &nbsp;·&nbsp; ship 3 real projects tahun ini, bukan cuma side project abadi <br/>
 🎵 &nbsp; **listening** &nbsp;·&nbsp; musik santai
-
 </td>
 <td width="50%" valign="top" align="center">
 
 ### &nbsp; Github stats
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fathii3&theme=dark&hide_border=true&background=0a0f14&ring=00D9FF&fire=00D9FF&currStreakNum=00D9FF&sideNums=ffffff&currStreakLabel=00D9FF&sideLabels=888888&dates=555555" width="100%"/>
-
 </td>
 </tr>
 </table>
@@ -56,9 +53,12 @@ di luar itu? dengerin musik, rebahan, sama overthinking soal hal teknis yang ga 
 
 ### &nbsp; Find me
 
-</div>
 <br>
+
 <div align="center">
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center" valign="middle">
   <a href="https://instagram.com/fathii._3" target="_blank">
     <img src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="Instagram" width="40" height="40" />
   </a>
@@ -74,9 +74,11 @@ di luar itu? dengerin musik, rebahan, sama overthinking soal hal teknis yang ga 
   <a href="https://fathifadhil3.infinityfree.me/" target="_blank">
     <img src="https://img.icons8.com/color/48/domain--v1.png" alt="Website" width="40" height="40" />
   </a>
-</div>
-<br/>
-<br/>
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=24&pause=1200&color=00D9FF&center=true&vCenter=true&width=500&height=45&lines=thanks+udah+mampir+%F0%9F%91%8B;reach+out+kalau+mau+collab!;stay+curious%2C+keep+building+%E2%9C%A8" />
+</td>
+<td valign="middle" width="20">&nbsp;</td>
+<td align="left" valign="middle">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=24&pause=1200&color=00D9FF&center=false&vCenter=true&width=320&height=45&lines=thanks+udah+mampir+%F0%9F%91%8B;reach+out+kalau+mau+collab!;stay+curious%2C+keep+building+%E2%9C%A8" />
+</td>
+</tr>
+</table>
 </div>
