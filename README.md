@@ -2,10 +2,12 @@
   <img src="https://komarev.com/ghpvc/?username=Fathii3&style=flat-square&color=00D9FF&label=yang+mampir" />
 </div>
 <br/>
+
 <!-- ══ HEADER ══ -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=62&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=90&lines=hi%2C+i'm+fathi.+%F0%9F%91%8B;suka+bikin+hal+seru.;fullstack+%2B+ai+nerd.;welcome+to+my+corner+%E2%9C%A8" alt="header" />
 </div>
+
 <div align="center">
   <img src="https://img.shields.io/badge/%F0%9F%93%8D_indonesia-%20-00D9FF?style=flat-square&labelColor=0a0f14" />
   &nbsp;
@@ -15,11 +17,14 @@
   &nbsp;
   <img src="https://img.shields.io/badge/%F0%9F%8E%B5_vibes-musik-santai-00D9FF?style=flat-square&labelColor=0a0f14" />
 </div>
+
 <br/>
 <br/>
+
 mahasiswa **informatika** yang hobinya main Game (Roblox), ngoding tunggu ga pening lebih fokus ngerjainya.
 suka di dunia **fullstack web** & **mobile (Flutter)** seneng kalau lihat sesuatu yang ku bikin bisa dipake beneran sama orang. sekarang lagi asik-asiknya ngulik **AI** buat dimasukin ke project. hasilnya belum tentu bagus, tapi prosesnya seru.
 di luar itu? dengerin musik, rebahan, sama overthinking soal hal teknis yang ga penting-penting amat 🫠
+
 <br/>
 
 ---
@@ -56,9 +61,6 @@ di luar itu? dengerin musik, rebahan, sama overthinking soal hal teknis yang ga 
 <br>
 
 <div align="center">
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td align="center" valign="middle">
   <a href="https://instagram.com/fathii._3" target="_blank">
     <img src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="Instagram" width="40" height="40" />
   </a>
@@ -74,11 +76,6 @@ di luar itu? dengerin musik, rebahan, sama overthinking soal hal teknis yang ga 
   <a href="https://fathifadhil3.infinityfree.me/" target="_blank">
     <img src="https://img.icons8.com/color/48/domain--v1.png" alt="Website" width="40" height="40" />
   </a>
-</td>
-<td valign="middle" width="20">&nbsp;</td>
-<td align="left" valign="middle">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=24&pause=1200&color=00D9FF&center=false&vCenter=true&width=320&height=45&lines=thanks+udah+mampir+%F0%9F%91%8B;reach+out+kalau+mau+collab!;stay+curious%2C+keep+building+%E2%9C%A8" />
-</td>
-</tr>
-</table>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=24&pause=1200&color=00D9FF&center=false&vCenter=true&width=320&height=40&lines=thanks+udah+mampir+%F0%9F%91%8B;reach+out+kalau+mau+collab!;stay+curious%2C+keep+building+%E2%9C%A8" />
 </div>
