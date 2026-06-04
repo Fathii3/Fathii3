@@ -22,27 +22,20 @@
 <br/>
 <br/>
 
-<!-- ══ ABOUT + STATS SIDE BY SIDE ══ -->
-<table>
-<tr>
-<td width="55%" valign="top">
-
 mahasiswa **informatika** yang hobinya ngoding hal-hal random terus nanya ke temen *"eh ini works ga di lo?"* 😂
 
 suka banget di dunia **fullstack web** & **mobile (Flutter)** — seneng kalau lihat sesuatu yang gue bikin bisa dipake beneran sama orang. sekarang lagi asik-asiknya ngulik **AI** buat dimasukin ke project. hasilnya belum tentu bagus, tapi prosesnya seru banget.
 
 di luar itu? dengerin musik, rebahan, sama overthinking soal hal teknis yang ga penting-penting amat 🫠
 
-</td>
-<td width="45%" valign="top" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Fathii3&show_icons=true&hide_border=true&bg_color=0a0f14&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&rank_icon=github" width="100%"/>
-
-</td>
-</tr>
-</table>
+<br/>
 
 ---
+
+<!-- ══ RIGHT NOW + STATS SIDE BY SIDE ══ -->
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 📌 &nbsp; right now
 
@@ -52,19 +45,18 @@ di luar itu? dengerin musik, rebahan, sama overthinking soal hal teknis yang ga 
 &nbsp; 🎯 &nbsp; **target** &nbsp;·&nbsp; ship 3 real projects tahun ini, bukan cuma side project abadi <br/>
 &nbsp; 🎵 &nbsp; **lagi denger** &nbsp;·&nbsp; lofi hip hop, kayak developer lain pada umumnya lol
 
-<br/>
-
----
+</td>
+<td width="50%" valign="top" align="center">
 
 ### 📈 &nbsp; github stats
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fathii3&theme=dark&hide_border=true&background=0a0f14&ring=00D9FF&fire=00D9FF&currStreakNum=00D9FF&sideNums=ffffff&currStreakLabel=00D9FF&sideLabels=888888&dates=555555" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fathii3&layout=compact&hide_border=true&bg_color=0a0f14&title_color=00D9FF&text_color=ffffff&langs_count=6" height="165"/>
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fathii3&theme=dark&hide_border=true&background=0a0f14&ring=00D9FF&fire=00D9FF&currStreakNum=00D9FF&sideNums=ffffff&currStreakLabel=00D9FF&sideLabels=888888&dates=555555" width="100%"/>
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fathii3&layout=compact&hide_border=true&bg_color=0a0f14&title_color=00D9FF&text_color=ffffff&langs_count=6" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
