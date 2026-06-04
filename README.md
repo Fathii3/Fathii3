@@ -56,21 +56,23 @@ di luar itu? dengerin musik, rebahan, sama overthinking soal hal teknis yang ga 
 
 ### &nbsp; Find me
 
+</div>
+<br>
 <div align="center">
-  <a href="https://instagram.com/fathii._3">
-    <img src="https://img.shields.io/badge/instagram-fathii._3-00D9FF?style=flat-square&logo=instagram&logoColor=00D9FF&labelColor=0a0f14" />
+  <a href="https://instagram.com/fathii._3" target="_blank">
+    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="Instagram" width="40" height="40" />
   </a>
-  &nbsp;
-  <a href="https://www.tiktok.com/@fathii.03">
-    <img src="https://img.shields.io/badge/tiktok-@fathii.03-00D9FF?style=flat-square&logo=tiktok&logoColor=00D9FF&labelColor=0a0f14" />
+  &nbsp;&nbsp;
+  <a href="https://www.tiktok.com/@fathii.03" target="_blank">
+    <img src="https://img.icons8.com/color/48/tiktok--v1.png" alt="TikTok" width="40" height="40" />
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/fathi-fadhil-45063320a">
-    <img src="https://img.shields.io/badge/linkedin-fathi_fadhil-00D9FF?style=flat-square&logo=linkedin&logoColor=00D9FF&labelColor=0a0f14" />
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/fathi-fadhil-45063320a?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40" height="40" />
   </a>
-  &nbsp;
-  <a href="https://fathifadhil3.infinityfree.me/">
-    <img src="https://img.shields.io/badge/portfolio-fathifadhil3.me-00D9FF?style=flat-square&logo=safari&logoColor=00D9FF&labelColor=0a0f14" />
+  &nbsp;&nbsp;
+  <a href="https://fathifadhil3.infinityfree.me/" target="_blank">
+    <img src="https://img.icons8.com/color/48/domain--v1.png" alt="Website" width="40" height="40" />
   </a>
 </div>
 <br/>
