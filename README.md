@@ -22,13 +22,11 @@
 <br/>
 <br/>
 
-gue mahasiswa **informatika** yang suka ngebuild hal-hal di internet —
-dari UI yang enak diliat sampe backend yang (semoga) ga pernah down.
-lagi dalam fase explore **AI** yang serius, nemu cara asik buat nyatuin
-itu ke dalam produk yang beneran make sense buat orang.
+mahasiswa **informatika** yang hobinya ngoding hal-hal random terus nanya ke temen *"eh ini works ga di lo?"* 😂
 
-kalau lagi ga ngoding, biasanya lagi mikirin kenapa kodenya ga jalan
-padahal kemarin masih works 😅
+suka banget di dunia **fullstack** — seneng kalau lihat sesuatu yang gue bikin bisa dipake beneran sama orang. sekarang lagi asik-asiknya ngulik **AI** buat dimasukin ke project web. hasilnya belum tentu bagus, tapi prosesnya seru banget.
+
+di luar itu? dengerin musik, rebahan, sama overthinking soal hal teknis yang ga penting-penting amat 🫠
 
 <br/>
 
@@ -36,13 +34,11 @@ padahal kemarin masih works 😅
 
 ### 📌 &nbsp; right now
 
-```
-  🔨  working on   →  fullstack web app + REST API
-  📖  learning     →  clean architecture & system design
-  🤖  exploring    →  AI integration ke dalam web project
-  🎯  goal 2025    →  ship 3 real projects, bukan cuma side project
-  🎵  vibing to    →  lofi hip hop. kayak developer lain, iya ik
-```
+&nbsp; 🔨 &nbsp; **lagi ngerjain** &nbsp;·&nbsp; fullstack web app + REST API <br/>
+&nbsp; 📖 &nbsp; **lagi baca** &nbsp;·&nbsp; clean architecture & system design <br/>
+&nbsp; 🤖 &nbsp; **lagi explore** &nbsp;·&nbsp; gimana AI masuk ke dalam web secara natural <br/>
+&nbsp; 🎯 &nbsp; **target** &nbsp;·&nbsp; ship 3 real projects tahun ini, bukan cuma side project abadi <br/>
+&nbsp; 🎵 &nbsp; **lagi denger** &nbsp;·&nbsp; lofi hip hop, kayak developer lain pada umumnya lol
 
 <br/>
 
