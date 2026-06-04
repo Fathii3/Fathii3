@@ -27,9 +27,13 @@ di luar itu? dengerin musik, rebahan, sama overthinking soal hal teknis yang ga 
 <!-- ══ RIGHT NOW + STATS SIDE BY SIDE ══ -->
 <table>
 <tr>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
+
+<div align="center">
 
 ### &nbsp; Right now
+
+</div>
 
 🔨 &nbsp; **working on** &nbsp;·&nbsp; fullstack web app + REST API <br/>
 📱 &nbsp; **tinkering** &nbsp;·&nbsp; mobile app pake Flutter <br/>
