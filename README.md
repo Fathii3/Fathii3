@@ -16,16 +16,14 @@
   &nbsp;
   <img src="https://img.shields.io/badge/%E2%98%95_fuel-kopi_susu-00D9FF?style=flat-square&labelColor=0a0f14" />
   &nbsp;
-  <img src="https://img.shields.io/badge/%F0%9F%8E%B5_vibes-lofi_all_day-00D9FF?style=flat-square&labelColor=0a0f14" />
+  <img src="https://img.shields.io/badge/%F0%9F%8E%B5_vibes-musik-santai-00D9FF?style=flat-square&labelColor=0a0f14" />
 </div>
 
 <br/>
 <br/>
 
-mahasiswa **informatika** yang hobinya ngoding hal-hal random terus nanya ke temen *"eh ini works ga di lo?"* 😂
-
-suka banget di dunia **fullstack web** & **mobile (Flutter)** — seneng kalau lihat sesuatu yang gue bikin bisa dipake beneran sama orang. sekarang lagi asik-asiknya ngulik **AI** buat dimasukin ke project. hasilnya belum tentu bagus, tapi prosesnya seru banget.
-
+mahasiswa **informatika** yang hobinya main Game (Roblox), ngoding tunggu ga pening lebih fokus ngerjainya.
+suka di dunia **fullstack web** & **mobile (Flutter)** seneng kalau lihat sesuatu yang ku bikin bisa dipake beneran sama orang. sekarang lagi asik-asiknya ngulik **AI** buat dimasukin ke project. hasilnya belum tentu bagus, tapi prosesnya seru.
 di luar itu? dengerin musik, rebahan, sama overthinking soal hal teknis yang ga penting-penting amat 🫠
 
 <br/>
@@ -39,11 +37,11 @@ di luar itu? dengerin musik, rebahan, sama overthinking soal hal teknis yang ga 
 
 ### 📌 &nbsp; right now
 
-&nbsp; 🔨 &nbsp; **lagi ngerjain** &nbsp;·&nbsp; fullstack web app + REST API <br/>
-&nbsp; 📱 &nbsp; **juga ngulik** &nbsp;·&nbsp; mobile app pake Flutter <br/>
-&nbsp; 🤖 &nbsp; **lagi explore** &nbsp;·&nbsp; gimana AI masuk ke dalam app secara natural <br/>
-&nbsp; 🎯 &nbsp; **target** &nbsp;·&nbsp; ship 3 real projects tahun ini, bukan cuma side project abadi <br/>
-&nbsp; 🎵 &nbsp; **lagi denger** &nbsp;·&nbsp; lofi hip hop, kayak developer lain pada umumnya lol
+&nbsp; 🔨 &nbsp; **working on** &nbsp;·&nbsp; fullstack web app + REST API <br/>
+&nbsp; 📱 &nbsp; **tinkering** &nbsp;·&nbsp; mobile app pake Flutter <br/>
+&nbsp; 🤖 &nbsp; **exploring** &nbsp;·&nbsp; gimana AI masuk ke dalam app secara natural <br/>
+&nbsp; 🎯 &nbsp; **goals** &nbsp;·&nbsp; ship 3 real projects tahun ini, bukan cuma side project abadi <br/>
+&nbsp; 🎵 &nbsp; **listening** &nbsp;·&nbsp; musik santai <br>
 
 </td>
 <td width="50%" valign="top" align="center">
@@ -51,8 +49,6 @@ di luar itu? dengerin musik, rebahan, sama overthinking soal hal teknis yang ga 
 ### 📈 &nbsp; github stats
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fathii3&theme=dark&hide_border=true&background=0a0f14&ring=00D9FF&fire=00D9FF&currStreakNum=00D9FF&sideNums=ffffff&currStreakLabel=00D9FF&sideLabels=888888&dates=555555" width="100%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fathii3&layout=compact&hide_border=true&bg_color=0a0f14&title_color=00D9FF&text_color=ffffff&langs_count=6" width="100%"/>
 
 </td>
 </tr>
@@ -82,8 +78,6 @@ di luar itu? dengerin musik, rebahan, sama overthinking soal hal teknis yang ga 
 
 <br/>
 <br/>
-
----
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=24&pause=1200&color=00D9FF&center=true&vCenter=true&width=500&height=45&lines=thanks+udah+mampir+%F0%9F%91%8B;reach+out+kalau+mau+collab!;stay+curious%2C+keep+building+%E2%9C%A8" />
