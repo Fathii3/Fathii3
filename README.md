@@ -48,43 +48,6 @@ padahal kemarin masih works 😅
 
 ---
 
-### 🛠 &nbsp; stack
-
-```
-  ╭─ languages ──────────────────────────────────╮
-  │   JavaScript  ·  TypeScript  ·  Python  ·  PHP │
-  ╰────────────────────────────────────────────────╯
-  ╭─ frontend ───────────────────────────────────╮
-  │   React  ·  Next.js  ·  Vue  ·  Tailwind CSS  │
-  ╰────────────────────────────────────────────────╯
-  ╭─ backend & database ─────────────────────────╮
-  │   Node.js  ·  Express  ·  Laravel             │
-  │   MySQL  ·  MongoDB  ·  Firebase              │
-  ╰────────────────────────────────────────────────╯
-  ╭─ tools ──────────────────────────────────────╮
-  │   Git  ·  Docker  ·  Linux  ·  VS Code  ·  Figma │
-  ╰────────────────────────────────────────────────╯
-```
-
-<br/>
-
----
-
-### 📊 &nbsp; skill level
-
-```
-  CSS / Tailwind   ██████████████████████░  92%
-  JavaScript       ████████████████████░░░  88%
-  React            ██████████████████░░░░░  80%
-  Node.js          ██████████████████░░░░░  78%
-  MySQL            ████████████████░░░░░░░  72%
-  Python           ████████████████░░░░░░░  70%
-```
-
-<br/>
-
----
-
 ### 📈 &nbsp; github stats
 
 <div align="center">
