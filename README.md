@@ -11,7 +11,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/%F0%9F%93%8D_indonesia-%20-00D9FF?style=flat-square&labelColor=0a0f14" />
   &nbsp;
-  <img src="https://img.shields.io/badge/%E2%9A%A1_status-open_to_collab-00D9FF?style=flat-square&labelColor=0a0f14" />
+  <img src="https://img.shields.io/badge/%E2%9A%A1_status-open+to+collab+%C2%B7+job+%C2%B7+work-00D9FF?style=flat-square&labelColor=0a0f14" />
   &nbsp;
   <img src="https://img.shields.io/badge/%E2%98%95_fuel-kopi_susu-00D9FF?style=flat-square&labelColor=0a0f14" />
   &nbsp;
@@ -77,5 +77,5 @@ di luar itu? dengerin musik, rebahan, sama overthinking soal hal teknis yang ga 
     <img src="https://img.icons8.com/color/48/domain--v1.png" alt="Website" width="40" height="40" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=24&pause=1200&color=00D9FF&center=false&vCenter=true&width=320&height=40&lines=thanks+udah+mampir+%F0%9F%91%8B;reach+out+kalau+mau+collab!;stay+curious%2C+keep+building+%E2%9C%A8" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=24&pause=1200&color=00D9FF&center=false&vCenter=true&width=320&height=40&lines=thanks+udah+mampir+%F0%9F%91%8B;reach+out+kalau+mau+collab!;open+for+job+%26+freelance+work+%F0%9F%92%BC;stay+curious%2C+keep+building+%E2%9C%A8" />
 </div>
