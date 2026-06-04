@@ -22,7 +22,9 @@
 <br/>
 
 mahasiswa **informatika** yang hobinya main Game (Roblox), ngoding tunggu ga pening lebih fokus ngerjainya.
+
 suka di dunia **fullstack web** & **mobile (Flutter)** seneng kalau lihat sesuatu yang ku bikin bisa dipake beneran sama orang. sekarang lagi asik-asiknya ngulik **AI** buat dimasukin ke project. hasilnya belum tentu bagus, tapi prosesnya seru.
+
 di luar itu? dengerin musik, rebahan, sama overthinking soal hal teknis yang ga penting-penting amat 🫠
 
 <br/>
