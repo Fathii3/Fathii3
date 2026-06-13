@@ -9,14 +9,12 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%93%8D_indonesia-%20-00D9FF?style=flat-square&labelColor=0a0f14" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/%E2%9A%A1_status-open+to+collab+%C2%B7+job+%C2%B7+work-00D9FF?style=flat-square&labelColor=0a0f14" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/%E2%98%95_fuel-kopi_susu-00D9FF?style=flat-square&labelColor=0a0f14" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/%F0%9F%8E%B5_vibes-musik-santai-00D9FF?style=flat-square&labelColor=0a0f14" />
+  <img src="https://img.shields.io/badge/📍_Indonesia-00D9FF?style=for-the-badge&logoColor=white&labelColor=0a0f14" />
+  <img src="https://img.shields.io/badge/⚡_Status-Open%20to%20Collab-00D9FF?style=for-the-badge&labelColor=0a0f14" />
+  <img src="https://img.shields.io/badge/☕_Fuel-Kopi%20Susu-00D9FF?style=for-the-badge&labelColor=0a0f14" />
+  <img src="https://img.shields.io/badge/🎵_Vibes-Musik%20Santai-00D9FF?style=for-the-badge&labelColor=0a0f14" />
 </div>
+<br/>
 
 <br/>
 <br/>
