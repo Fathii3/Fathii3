@@ -1,5 +1,5 @@
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=Fathii3&style=flat-square&color=00D9FF&label=yang+mampir" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00D9FF&height=28&section=header&text=yang%20mampir%20%E2%9C%A8&fontColor=0a0f14&fontSize=12&fontAlign=50&fontAlignY=55&width=150" />
 </div>
 <br/>
 
