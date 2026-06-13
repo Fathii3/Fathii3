@@ -9,10 +9,13 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/📍_Indonesia-00D9FF?style=for-the-badge&logoColor=white&labelColor=0a0f14" />
-  <img src="https://img.shields.io/badge/⚡_Status-Open%20to%20Collab-00D9FF?style=for-the-badge&labelColor=0a0f14" />
-  <img src="https://img.shields.io/badge/☕_Fuel-Kopi%20Susu-00D9FF?style=for-the-badge&labelColor=0a0f14" />
-  <img src="https://img.shields.io/badge/🎵_Vibes-Musik%20Santai-00D9FF?style=for-the-badge&labelColor=0a0f14" />
+  <img src="https://img.shields.io/badge/📍_Indonesia-00D9FF?style=flat&labelColor=0a0f14" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/⚡_Status-Open%20to%20Collab-00D9FF?style=flat&labelColor=0a0f14" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/☕_Fuel-Kopi%20Susu-00D9FF?style=flat&labelColor=0a0f14" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🎵_Vibes-Musik%20Santai-00D9FF?style=flat&labelColor=0a0f14" />
 </div>
 <br/>
 
