@@ -1,84 +1,101 @@
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=Fathii3&style=flat&color=00D9FF&label=yang+mampir" />
-</div>
-<br/>
-
-<!-- ══ HEADER ══ -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=62&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=90&lines=hi%2C+i'm+fathi.+%F0%9F%91%8B;suka+bikin+hal+seru.;fullstack+%2B+ai+nerd.;welcome+to+my+corner+%E2%9C%A8" alt="header" />
+<img src="https://komarev.com/ghpvc/?username=Fathii3&style=flat&color=00D9FF&label=yang+mampir"/>
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/📍_Indonesia-00D9FF?style=flat&labelColor=0a0f14" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/⚡_Status-Open%20to%20Collab-00D9FF?style=flat&labelColor=0a0f14" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/☕_Fuel-Kopi%20Susu-00D9FF?style=flat&labelColor=0a0f14" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/🎵_Vibes-Musik%20Santai-00D9FF?style=flat&labelColor=0a0f14" />
-</div>
-<br/>
+# Fathi / README.md
 
-<br/>
-<br/>
+```txt
+> mahasiswa informatika.
+> fullstack web developer.
+> flutter enthusiast.
+> sekarang lagi ngulik AI.
+```
 
-mahasiswa **informatika** yang hobinya main Game (Roblox), ngoding tunggu ga pening lebih fokus ngerjainya.
+Halo! Aku Fathi.
 
-suka di dunia **fullstack web** & **mobile (Flutter)** seneng kalau lihat sesuatu yang ku bikin bisa dipake beneran sama orang. sekarang lagi asik-asiknya ngulik **AI** buat dimasukin ke project. hasilnya belum tentu bagus, tapi prosesnya seru.
+Mahasiswa informatika yang hobinya main **Roblox**, ngoding kalau lagi fokus, dan penasaran sama teknologi baru.
 
-di luar itu? dengerin musik, rebahan, sama overthinking soal hal teknis yang ga penting-penting amat 🫠
+Sekarang lagi banyak belajar **Fullstack Web**, **Flutter**, **REST API**, dan gimana **AI** bisa dipakai secara natural di aplikasi.
 
-<br/>
+Targetku sederhana: **bikin project yang selesai dan benar-benar dipakai orang.**
 
 ---
 
-<!-- ══ RIGHT NOW + STATS SIDE BY SIDE ══ -->
-<table>
-<tr>
-<td width="50%" valign="top">
-<div align="center">
+## build.log
 
-### &nbsp; Right now
-
-</div>
-
-🔨 &nbsp; **working on** &nbsp;·&nbsp; fullstack web app + REST API <br/>
-📱 &nbsp; **tinkering** &nbsp;·&nbsp; mobile app pake Flutter <br/>
-🤖 &nbsp; **exploring** &nbsp;·&nbsp; gimana AI masuk ke dalam app secara natural <br/>
-🎯 &nbsp; **goals** &nbsp;·&nbsp; ship 3 real projects tahun ini, bukan cuma side project abadi <br/>
-🎵 &nbsp; **listening** &nbsp;·&nbsp; musik santai
-</td>
-<td width="50%" valign="top" align="center">
-
-### &nbsp; Github stats
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fathii3&theme=dark&hide_border=true&background=0a0f14&ring=00D9FF&fire=00D9FF&currStreakNum=00D9FF&sideNums=ffffff&currStreakLabel=00D9FF&sideLabels=888888&dates=555555" width="100%"/>
-</td>
-</tr>
-</table>
+- ✅ Fullstack Web App + REST API
+- ✅ Mobile App (Flutter)
+- 🤖 AI Integration
+- 🎯 Ship 3 real projects tahun ini
+- ☕ Kopi susu + musik santai
 
 ---
 
-### &nbsp; Find me
+## Featured Projects
 
-<br>
+### 💰 FINARA
+Money Tracker berbasis Flutter dengan Firebase dan AI.
 
-<div align="center">
-  <a href="https://instagram.com/fathii._3" target="_blank">
-    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="Instagram" width="40" height="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.tiktok.com/@fathii.03" target="_blank">
-    <img src="https://img.icons8.com/color/48/tiktok--v1.png" alt="TikTok" width="40" height="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/fathi-fadhil-45063320a?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40" height="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://fathifadhil3.infinityfree.me/" target="_blank">
-    <img src="https://img.icons8.com/color/48/domain--v1.png" alt="Website" width="40" height="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=24&pause=1200&color=00D9FF&center=false&vCenter=true&width=320&height=40&lines=thanks+udah+mampir+%F0%9F%91%8B;reach+out+kalau+mau+collab!;open+for+job+%26+freelance+work+%F0%9F%92%BC;stay+curious%2C+keep+building+%E2%9C%A8" />
-</div>
+### 🌊 Flood Monitoring
+Aplikasi pelaporan banjir dengan Maps dan monitoring.
+
+### 🌐 Portfolio
+Website portfolio modern yang terus dikembangkan.
+
+---
+
+## Tech Stack
+
+```text
+Frontend   : HTML • CSS • JavaScript • React
+Mobile     : Flutter
+Backend    : PHP • Flask • REST API
+Database   : MySQL • Firebase
+Tools      : Git • GitHub • VS Code • Figma
+```
+
+---
+
+## GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fathii3&theme=dark&hide_border=true&background=0a0f14&ring=00D9FF&fire=00D9FF&currStreakNum=00D9FF&sideNums=ffffff&currStreakLabel=00D9FF" width="80%">
+</p>
+
+---
+
+## Random Facts
+
+- 🎮 Masih main Roblox
+- ☕ Tim Kopi Susu
+- 🎵 Suka musik santai
+- 🧠 Sering overthinking soal detail UI
+- 🚀 Lebih suka "build" daripada cuma belajar teori
+
+---
+
+## Find Me
+
+<p align="center">
+
+<a href="https://instagram.com/fathii._3">
+<img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="42">
+</a>
+
+<a href="https://www.tiktok.com/@fathii.03">
+<img src="https://img.icons8.com/color/48/tiktok--v1.png" width="42">
+</a>
+
+<a href="https://www.linkedin.com/in/fathi-fadhil-45063320a">
+<img src="https://img.icons8.com/color/48/linkedin.png" width="42">
+</a>
+
+<a href="https://fathifadhil3.infinityfree.me/">
+<img src="https://img.icons8.com/color/48/domain--v1.png" width="42">
+</a>
+
+</p>
+
+---
+
+> **Build things people actually use.**
