@@ -33,11 +33,9 @@ di luar itu? dengerin musik, rebahan, sama overthinking soal hal teknis yang ga 
 ---
 
 <!-- ══ RIGHT NOW + STATS SIDE BY SIDE ══ -->
-<table width="100%">
+<table>
 <tr>
-
 <td width="50%" valign="top">
-
 <div align="center">
 
 ### Right now
