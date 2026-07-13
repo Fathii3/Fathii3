@@ -33,27 +33,57 @@ di luar itu? dengerin musik, rebahan, sama overthinking soal hal teknis yang ga 
 ---
 
 <!-- ══ RIGHT NOW + STATS SIDE BY SIDE ══ -->
-<table>
+<table width="100%">
 <tr>
+
 <td width="50%" valign="top">
+
 <div align="center">
 
-### &nbsp; Right now
+### Right now
 
 </div>
 
-🔨 &nbsp; **working on** &nbsp;·&nbsp; fullstack web app + REST API <br/>
-📱 &nbsp; **tinkering** &nbsp;·&nbsp; mobile app pake Flutter <br/>
-🤖 &nbsp; **exploring** &nbsp;·&nbsp; gimana AI masuk ke dalam app secara natural <br/>
-🎯 &nbsp; **goals** &nbsp;·&nbsp; ship 3 real projects tahun ini, bukan cuma side project abadi <br/>
-🎵 &nbsp; **listening** &nbsp;·&nbsp; musik santai
+<table width="100%">
+<tr>
+<td width="34%"><b>Working</b></td>
+<td><code>Fullstack Web + REST API</code></td>
+</tr>
+
+<tr>
+<td><b>Building</b></td>
+<td><code>Flutter Mobile App</code></td>
+</tr>
+
+<tr>
+<td><b>Exploring</b></td>
+<td><code>Natural AI Integration</code></td>
+</tr>
+
+<tr>
+<td><b>Goal</b></td>
+<td><code>Ship 3 Real Projects</code></td>
+</tr>
+
+<tr>
+<td><b>Listening</b></td>
+<td><code>Musik Santai</code></td>
+</tr>
+
+</table>
+
 </td>
+
 <td width="50%" valign="top" align="center">
 
-### &nbsp; Github stats
+### Github stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fathii3&theme=dark&hide_border=true&background=0a0f14&ring=00D9FF&fire=00D9FF&currStreakNum=00D9FF&sideNums=ffffff&currStreakLabel=00D9FF&sideLabels=888888&dates=555555" width="100%"/>
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=Fathii3&theme=dark&hide_border=true&background=0a0f14&ring=00D9FF&fire=00D9FF&currStreakNum=00D9FF&sideNums=ffffff&currStreakLabel=00D9FF&sideLabels=888888&dates=555555"
+width="100%" />
+
 </td>
+
 </tr>
 </table>
 
