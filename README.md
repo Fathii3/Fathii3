@@ -36,15 +36,14 @@ di luar itu? dengerin musik, rebahan, sama overthinking soal hal teknis yang ga 
 <table>
 <tr>
 <td width="50%" valign="top">
+
 <div align="center">
 
 ### Right now
 
-</div>
-
-<table width="100%">
+<table width="75%">
 <tr>
-<td width="34%"><b>Working</b></td>
+<td width="35%"><b>Working</b></td>
 <td><code>Fullstack Web + REST API</code></td>
 </tr>
 
@@ -67,8 +66,9 @@ di luar itu? dengerin musik, rebahan, sama overthinking soal hal teknis yang ga 
 <td><b>Listening</b></td>
 <td><code>Musik Santai</code></td>
 </tr>
-
 </table>
+
+</div>
 
 </td>
 
