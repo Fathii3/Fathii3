@@ -1,101 +1,62 @@
 <div align="right">
-<img src="https://komarev.com/ghpvc/?username=Fathii3&style=flat&color=00D9FF&label=yang+mampir"/>
+  <img src="https://komarev.com/ghpvc/?username=Fathii3&style=flat&color=00D9FF&label=yang+mampir" />
 </div>
 
-# Fathi / README.md
+<br/>
 
-```txt
-> mahasiswa informatika.
-> fullstack web developer.
-> flutter enthusiast.
-> sekarang lagi ngulik AI.
-```
+# hi, i'm fathi 👋
 
-Halo! Aku Fathi.
+mahasiswa **informatika** yang hobinya main game (Roblox), ngoding tunggu ga pening lebih fokus ngerjainya.
 
-Mahasiswa informatika yang hobinya main **Roblox**, ngoding kalau lagi fokus, dan penasaran sama teknologi baru.
+suka di dunia **fullstack web** & **mobile (Flutter)** — seneng kalau lihat sesuatu yang ku bikin bisa dipake beneran sama orang. sekarang lagi asik-asiknya ngulik **AI** buat dimasukin ke project. hasilnya belum tentu bagus, tapi prosesnya seru.
 
-Sekarang lagi banyak belajar **Fullstack Web**, **Flutter**, **REST API**, dan gimana **AI** bisa dipakai secara natural di aplikasi.
+di luar itu? dengerin musik, rebahan, sama overthinking soal hal teknis yang ga penting-penting amat 🫠
 
-Targetku sederhana: **bikin project yang selesai dan benar-benar dipakai orang.**
+📍 Indonesia &nbsp;·&nbsp; ☕ kopi susu &nbsp;·&nbsp; 🎵 musik santai &nbsp;·&nbsp; ⚡ open to collab
+
+<br/>
 
 ---
 
-## build.log
+### lagi ngapain sekarang
 
-- ✅ Fullstack Web App + REST API
-- ✅ Mobile App (Flutter)
-- 🤖 AI Integration
-- 🎯 Ship 3 real projects tahun ini
-- ☕ Kopi susu + musik santai
+- 🔨 lagi bikin fullstack web app + REST API-nya
+- 📱 lagi utak-atik mobile app pake Flutter
+- 🤖 lagi nyoba masukin AI ke app secara natural, ga maksa
+- 🎯 target tahun ini: ship 3 project beneran, bukan cuma side project yang mangkrak
 
----
+<br/>
 
-## Featured Projects
+### log — bukan stats, ini progress asli
 
-### 💰 FINARA
-Money Tracker berbasis Flutter dengan Firebase dan AI.
+> update manual, bukan widget auto-generate. biar keliatan progress-nya beneran, termasuk pas stuck.
 
-### 🌊 Flood Monitoring
-Aplikasi pelaporan banjir dengan Maps dan monitoring.
+| bulan | lagi ngapain | mood |
+|---|---|---|
+| Juli 2026 | belum tau plan bulan ini, kasih tau nanti diisi | - |
 
-### 🌐 Portfolio
-Website portfolio modern yang terus dikembangkan.
+<br/>
 
----
+<details>
+<summary><b>tech stack yang biasa dipake</b> (klik buat liat)</summary>
+<br/>
 
-## Tech Stack
+isi sendiri sesuai stack kamu, misalnya:
 
-```text
-Frontend   : HTML • CSS • JavaScript • React
-Mobile     : Flutter
-Backend    : PHP • Flask • REST API
-Database   : MySQL • Firebase
-Tools      : Git • GitHub • VS Code • Figma
-```
+`Flutter` `Dart` `JavaScript` `Node.js` `Express` `MySQL` `Git`
+
+</details>
+
+<br/>
 
 ---
 
-## GitHub Stats
+### find me
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fathii3&theme=dark&hide_border=true&background=0a0f14&ring=00D9FF&fire=00D9FF&currStreakNum=00D9FF&sideNums=ffffff&currStreakLabel=00D9FF" width="80%">
-</p>
+kalau mau collab atau sekadar say hi, mampir aja:
 
----
+[Instagram](https://instagram.com/fathii._3) · [TikTok](https://www.tiktok.com/@fathii.03) · [LinkedIn](https://www.linkedin.com/in/fathi-fadhil-45063320a) · [Website](https://fathifadhil3.infinityfree.me/)
 
-## Random Facts
+<br/>
 
-- 🎮 Masih main Roblox
-- ☕ Tim Kopi Susu
-- 🎵 Suka musik santai
-- 🧠 Sering overthinking soal detail UI
-- 🚀 Lebih suka "build" daripada cuma belajar teori
-
----
-
-## Find Me
-
-<p align="center">
-
-<a href="https://instagram.com/fathii._3">
-<img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="42">
-</a>
-
-<a href="https://www.tiktok.com/@fathii.03">
-<img src="https://img.icons8.com/color/48/tiktok--v1.png" width="42">
-</a>
-
-<a href="https://www.linkedin.com/in/fathi-fadhil-45063320a">
-<img src="https://img.icons8.com/color/48/linkedin.png" width="42">
-</a>
-
-<a href="https://fathifadhil3.infinityfree.me/">
-<img src="https://img.icons8.com/color/48/domain--v1.png" width="42">
-</a>
-
-</p>
-
----
-
-> **Build things people actually use.**
+<sub>thanks udah mampir. stay curious, keep building ✨</sub>
