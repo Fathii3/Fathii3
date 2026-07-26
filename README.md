@@ -104,7 +104,7 @@ width="100%" />
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40" height="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://fathifadhil3.me" target="_blank">
+  <a href="https://fathifadhil.me" target="_blank">
     <img src="https://img.icons8.com/color/48/domain--v1.png" alt="Website" width="40" height="40" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
