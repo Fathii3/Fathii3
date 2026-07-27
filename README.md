@@ -77,7 +77,7 @@ di luar itu? dengerin musik, rebahan, sama overthinking soal hal teknis yang ga 
 ### Github stats
 
 <img
-src="https://github-readme-streak-stats.herokuapp.com/?user=Fathii3&theme=dark&hide_border=true&background=0a0f14&ring=00D9FF&fire=00D9FF&currStreakNum=00D9FF&sideNums=ffffff&currStreakLabel=00D9FF&sideLabels=888888&dates=555555"
+src="https://streak-stats.demolab.com/?user=Fathii3&count_private=true&theme=dark&hide_border=true&background=0a0f14&ring=00D9FF&fire=00D9FF&currStreakNum=00D9FF&sideNums=ffffff&currStreakLabel=00D9FF&sideLabels=888888&dates=555555"
 width="100%" />
 
 </td>
