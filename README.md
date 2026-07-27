@@ -76,7 +76,7 @@ di luar itu? dengerin musik, rebahan, sama overthinking soal hal teknis yang ga 
 
 ### Github stats
 
-<img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Fathii3&show_icons=true&theme=dark&hide_border=true&bg_color=0a0f14&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&border_radius=8&include_all_commits=true" width="100%" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Fathii3&show_icons=true&theme=dark&hide_border=true&bg_color=0a0f14&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&border_radius=8" width="100%" />
 
 <br/><br/>
 
