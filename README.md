@@ -76,9 +76,11 @@ di luar itu? dengerin musik, rebahan, sama overthinking soal hal teknis yang ga 
 
 ### Github stats
 
-<img
-src="https://streak-stats.demolab.com/?user=Fathii3&count_private=true&theme=dark&hide_border=true&background=0a0f14&ring=00D9FF&fire=00D9FF&currStreakNum=00D9FF&sideNums=ffffff&currStreakLabel=00D9FF&sideLabels=888888&dates=555555"
-width="100%" />
+<img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Fathii3&show_icons=true&theme=dark&hide_border=true&bg_color=0a0f14&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&border_radius=8&include_all_commits=true" width="100%" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fathii3&theme=dark&hide_border=true&background=0a0f14&ring=00D9FF&fire=00D9FF&currStreakNum=00D9FF&sideNums=ffffff&currStreakLabel=00D9FF&sideLabels=888888&dates=555555" width="100%" />
 
 </td>
 
