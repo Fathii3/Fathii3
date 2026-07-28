@@ -13,7 +13,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/⚡_Status-Open%20to%20Collab-00D9FF?style=flat&labelColor=0a0f14" />
   &nbsp;
-  <img src="https://img.shields.io/badge/☕_Fuel-Kopi%20Susu-00D9FF?style=flat&labelColor=0a0f14" />
+  <img src="https://img.shields.io/badge/☕_Fuel-Kopi%20Cucu-00D9FF?style=flat&labelColor=0a0f14" />
   &nbsp;
   <img src="https://img.shields.io/badge/🎵_Vibes-Musik%20Santai-00D9FF?style=flat&labelColor=0a0f14" />
 </div>
