@@ -2,12 +2,10 @@
   <img src="https://komarev.com/ghpvc/?username=Fathii3&style=flat&color=00D9FF&label=yang+mampir" />
 </div>
 <br/>
-
 <!-- ══ HEADER ══ -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=62&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=90&lines=hi%2C+i'm+fathi.+%F0%9F%91%8B;suka+bikin+hal+seru.;fullstack+%2B+ai+nerd.;welcome+to+my+corner+%E2%9C%A8" alt="header" />
 </div>
-
 <div align="center">
   <img src="https://img.shields.io/badge/📍_Indonesia-00D9FF?style=flat&labelColor=0a0f14" />
   &nbsp;
@@ -18,16 +16,11 @@
   <img src="https://img.shields.io/badge/🎵_Vibes-Musik%20Santai-00D9FF?style=flat&labelColor=0a0f14" />
 </div>
 <br/>
-
 <br/>
 <br/>
-
 mahasiswa **informatika** yang hobinya main Game (Roblox), ngoding tunggu ga pening lebih fokus ngerjainya.
-
 suka di dunia **fullstack web** & **mobile (Flutter)** seneng kalau lihat sesuatu yang ku bikin bisa dipake beneran sama orang. sekarang lagi asik-asiknya ngulik **AI** buat dimasukin ke project. hasilnya belum tentu bagus, tapi prosesnya seru.
-
 di luar itu? dengerin musik, rebahan, sama overthinking soal hal teknis yang ga penting-penting amat 🫠
-
 <br/>
 
 ---
@@ -46,22 +39,18 @@ di luar itu? dengerin musik, rebahan, sama overthinking soal hal teknis yang ga 
 <td width="35%"><b>Working</b></td>
 <td><code>Fullstack Web + REST API</code></td>
 </tr>
-
 <tr>
 <td><b>Building</b></td>
 <td><code>Flutter Mobile App</code></td>
 </tr>
-
 <tr>
 <td><b>Exploring</b></td>
 <td><code>Natural AI Integration</code></td>
 </tr>
-
 <tr>
 <td><b>Goal</b></td>
 <td><code>Ship 3 Real Projects</code></td>
 </tr>
-
 <tr>
 <td><b>Listening</b></td>
 <td><code>Musik Santai</code></td>
@@ -71,32 +60,24 @@ di luar itu? dengerin musik, rebahan, sama overthinking soal hal teknis yang ga 
 </div>
 
 </td>
-
 <td width="50%" valign="top" align="center">
 
 ### Github stats
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Fathii3&show_icons=true&theme=dark&hide_border=true&bg_color=0a0f14&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&border_radius=8&cache_seconds=60" width="100%" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=Fathii3&show_icons=true&theme=dark&hide_border=true&bg_color=0a0f14&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&border_radius=8" width="100%" />
 <br/><br/>
-
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Fathii3&layout=compact&theme=dark&hide_border=true&bg_color=0a0f14&title_color=00D9FF&text_color=ffffff&border_radius=8&cache_seconds=60" width="100%" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fathii3&layout=compact&theme=dark&hide_border=true&bg_color=0a0f14&title_color=00D9FF&text_color=ffffff&border_radius=8" width="100%" />
 <br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fathii3&theme=dark&hide_border=true&background=0a0f14&ring=00D9FF&fire=00D9FF&currStreakNum=00D9FF&sideNums=ffffff&currStreakLabel=00D9FF&sideLabels=888888&dates=555555&cache_seconds=60" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fathii3&theme=dark&hide_border=true&background=0a0f14&ring=00D9FF&fire=00D9FF&currStreakNum=00D9FF&sideNums=ffffff&currStreakLabel=00D9FF&sideLabels=888888&dates=555555" width="100%" />
 
 </td>
-
 </tr>
 </table>
 
 ---
 
 ### &nbsp; Find me
-
 <br>
-
 <div align="center">
   <a href="https://instagram.com/fathii._3" target="_blank">
     <img src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="Instagram" width="40" height="40" />
