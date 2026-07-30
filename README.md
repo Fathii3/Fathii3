@@ -3,7 +3,6 @@
 </div>
 <br/>
 
-<!-- ══ HEADER ══ -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=62&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=90&lines=hi%2C+i'm+fathi.+%F0%9F%91%8B;suka+bikin+hal+seru.;fullstack+%2B+ai+nerd.;welcome+to+my+corner+%E2%9C%A8" alt="header" />
 </div>
@@ -28,7 +27,7 @@ di luar itu? dengerin musik, rebahan, sama overthinking soal hal teknis yang ga 
 
 ---
 
-<!-- ══ RIGHT NOW + STATS SIDE BY SIDE ══ -->
+
 <table>
 <tr>
 <td width="50%" valign="top">
