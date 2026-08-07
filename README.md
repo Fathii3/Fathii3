@@ -75,7 +75,6 @@ di luar itu? dengerin musik, rebahan, sama overthinking soal hal teknis yang ga 
 </td>
 </tr>
 </table>
-
 ---
 
 ### &nbsp; Find me
