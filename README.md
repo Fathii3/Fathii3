@@ -125,31 +125,14 @@ di luar itu? dengerin musik, rebahan, sama overthinking soal hal teknis yang ga 
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Fathii3&theme=onedark&no-frame=true&no-background=true&margin-w=15" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fathii3&theme=react-dark&bg_color=0a0f14&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
-</div>
-
-<br/>
-
----
-
 ## 🐍 Contribution Journey
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Fathii3/Fathii3/main/assets/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Snake Dark" width="100%" />
-  <img src="https://raw.githubusercontent.com/Fathii3/Fathii3/main/assets/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Snake Light" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fathii3/Fathii3/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fathii3/Fathii3/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Fathii3/Fathii3/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <br/>
