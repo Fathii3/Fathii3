@@ -125,24 +125,27 @@ di luar itu? dengerin musik, rebahan, sama overthinking soal hal teknis yang ga 
 
 ---
 
-## 🐍 Contribution Journey
+<h2>🐍 Contribution Journey</h2>
 
 <div align="center">
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Fathii3/Fathii3/output/github-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/Fathii3/Fathii3/output/github-contribution-grid-snake-dark.svg"
   />
+
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Fathii3/Fathii3/output/github-snake.svg"
+    srcset="https://raw.githubusercontent.com/Fathii3/Fathii3/output/github-contribution-grid-snake.svg"
   />
+
   <img
-    src="https://raw.githubusercontent.com/Fathii3/Fathii3/output/github-snake.svg"
+    src="https://raw.githubusercontent.com/Fathii3/Fathii3/output/github-contribution-grid-snake.svg"
     alt="GitHub Contribution Snake"
     width="100%"
   />
+
 </picture>
 
 </div>
