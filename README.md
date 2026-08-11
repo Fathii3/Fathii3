@@ -128,11 +128,8 @@ di luar itu? dengerin musik, rebahan, sama overthinking soal hal teknis yang ga 
 ## 🐍 Contribution Journey
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fathii3/Fathii3/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fathii3/Fathii3/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Fathii3/Fathii3/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/Fathii3/Fathii3/main/assets/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Snake Dark" width="100%" />
+  <img src="https://raw.githubusercontent.com/Fathii3/Fathii3/main/assets/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Snake Light" width="100%" />
 </div>
 
 <br/>
