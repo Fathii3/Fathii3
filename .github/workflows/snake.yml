@@ -1,29 +1,32 @@
-name: generate animation
+name: Generate Contribution Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # jalan tiap 12 jam
-  workflow_dispatch:  # supaya bisa dijalankan manual
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
   push:
     branches:
-    - main
+      - main
 
 jobs:
   generate:
-    permissions: 
+    permissions:
       contents: write
+
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: generate github-contribution-grid-snake.svg
+      - name: Generate GitHub Contribution Snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             assets/github-contribution-grid-snake.svg
             assets/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2300D9FF
+
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
