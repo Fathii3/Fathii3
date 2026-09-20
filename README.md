@@ -39,12 +39,12 @@ Informatics student and software engineer based in Indonesia. I focus on buildin
   <table border="0">
     <tr>
       <td width="50%" valign="top" align="center">
-        <img src="https://github-readme-stats-ten-wheat-43.vercel.app/api?username=Fathii3&show_icons=true&theme=dark&hide_border=true&bg_color=0a0f14&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&border_radius=8&count_private=true" width="100%" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Fathii3&show_icons=true&theme=dark&hide_border=true&bg_color=0a0f14&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&border_radius=8&count_private=true" width="100%" alt="GitHub Stats" />
         <br/><br/>
-        <img src="https://github-readme-streak-stats-omega-two-80.vercel.app/?user=Fathii3&theme=dark&hide_border=true&background=0a0f14&ring=00D9FF&fire=00D9FF&currStreakNum=00D9FF&sideNums=ffffff&currStreakLabel=00D9FF&sideLabels=888888&dates=555555" width="100%" alt="Streak Stats" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fathii3&theme=dark&hide_border=true&background=0a0f14&ring=00D9FF&fire=00D9FF&currStreakNum=00D9FF&sideNums=ffffff&currStreakLabel=00D9FF&sideLabels=888888&dates=555555" width="100%" alt="Streak Stats" />
       </td>
       <td width="50%" valign="top" align="center">
-        <img src="https://github-readme-stats-ten-wheat-43.vercel.app/api/top-langs/?username=Fathii3&layout=compact&theme=dark&hide_border=true&bg_color=0a0f14&title_color=00D9FF&text_color=ffffff&border_radius=8" width="100%" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fathii3&layout=compact&theme=dark&hide_border=true&bg_color=0a0f14&title_color=00D9FF&text_color=ffffff&border_radius=8" width="100%" alt="Top Languages" />
       </td>
     </tr>
   </table>
