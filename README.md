@@ -10,7 +10,7 @@
 
 Informatics student and software engineer based in Indonesia. I focus on building practical applications across **full-stack web** and **cross-platform mobile (Flutter)**, with an emphasis on clean architecture, responsive interfaces, and practical AI integrations.
 
-- **Web & Backend:** Building responsive frontends and resilient REST APIs with React, Node.js, and PHP.
+- **Web & Backend:** Creating responsive frontends and robust REST APIs.
 - **Mobile:** Developing cross-platform mobile applications using Flutter & Dart.
 - **AI & Tooling:** Integrating modern AI APIs and automated workflows into everyday engineering tasks.
 - **Portfolio:** [fathifadhil.me](https://fathifadhil.me)
@@ -72,7 +72,7 @@ Informatics student and software engineer based in Indonesia. I focus on buildin
 
 <p align="left">
   <a href="https://fathifadhil.me" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-fathifadhil.me-00D9FF?style=flat&logo=googlechrome&logoColor=black&labelColor=0a0f14" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-fathifadhil.me-00D9FF?style=flat&logo=googlechrome&logoColor=white&labelColor=0a0f14" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/fathi-fadhil-45063320a" target="_blank">
