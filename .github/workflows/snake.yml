@@ -28,6 +28,7 @@ jobs:
 
       - name: Apply custom snake gradient
         run: |
+          sudo chown -R $USER:$USER dist
           node -e '
             const fs = require("fs");
             const lightGradient = `<defs><linearGradient id="snake-gradient" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#72695c"/><stop offset="50%" stop-color="#72695c"/><stop offset="75%" stop-color="#c4bbb0"/><stop offset="100%" stop-color="#ffffff"/></linearGradient></defs>`;
